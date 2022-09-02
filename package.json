@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "sass": "^1.54.8"
   }
 }
