@@ -11,7 +11,7 @@ Es una página creada para Skay y los Fakires, banda de Rock Argentino.
 - Gulp
 - Css Nano
 - Sourcemap
-- Tester
+- Terser
 
 
 
